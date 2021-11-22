@@ -1,0 +1,14 @@
+{
+    "fixturesFolder": "cypress/fixtures",
+    "integrationFolder": "cypress/integration",
+    "pluginsFile": "cypress/plugins/index.js",
+    "screenshotsFolder": "cypress/screenshots",
+    "supportFile": "cypress/support/index.js",
+    "videosFolder": "cypress/videos",
+    "video": false,
+    "viewportWidth": 1536,
+    "viewportHeight": 960,
+    "chromeWebSecurity": false,
+    "types": ["cypress", "@percy/cypress"],
+	"animationDistanceThreshold": 60
+}
